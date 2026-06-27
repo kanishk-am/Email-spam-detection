@@ -97,7 +97,7 @@ git clone https://github.com/kanishk-am/Email-spam-detection.git
 Navigate to the project directory:
 
 ```bash
-cd Spam-Email-Detection
+cd Email-spam-detection
 ```
 
 Install the required libraries:
@@ -119,7 +119,7 @@ pip install -r requirements.txt
 Run the Python script:
 
 ```bash
-python spam_email_detection.py
+python email_spam_detection.py
 ```
 
 Example:
