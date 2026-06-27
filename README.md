@@ -91,7 +91,7 @@ Each email is labeled as:
 Clone the repository:
 
 ```bash
-git clone https://github.com/kanishk-am/Spam-Email-Detection.git
+git clone https://github.com/kanishk-am/Email-spam-detection.git
 ```
 
 Navigate to the project directory:
