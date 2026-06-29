@@ -215,5 +215,3 @@ pip install pandas matplotlib scikit-learn
 GitHub: https://github.com/kanishk-am
 
 ---
-
-This project is licensed under the MIT License.
