@@ -1,6 +1,6 @@
-# 📧 Spam Email Detection using Machine Learning
+# Spam Email Detection using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements a **Spam Email Detection** system using **Machine Learning** in Python. It classifies emails as **Spam** or **Not Spam** by converting text into numerical features with **TF-IDF Vectorization** and training a **Logistic Regression** classifier.
 
@@ -8,7 +8,7 @@ The application also displays the model's training accuracy and visualizes its p
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Detects whether an email is Spam or Not Spam.
 * Uses **TF-IDF Vectorizer** for text feature extraction.
@@ -20,7 +20,7 @@ The application also displays the model's training accuracy and visualizes its p
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Spam-Email-Detection/
@@ -32,7 +32,7 @@ Spam-Email-Detection/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * Pandas
@@ -41,7 +41,7 @@ Spam-Email-Detection/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project uses a manually created dataset consisting of:
 
@@ -73,7 +73,7 @@ Each email is labeled as:
 
 ---
 
-## ⚙️ Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Create the email dataset.
 2. Convert text into numerical vectors using **TF-IDF Vectorizer**.
@@ -86,7 +86,7 @@ Each email is labeled as:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -114,7 +114,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 Run the Python script:
 
@@ -148,7 +148,7 @@ Result: NOT SPAM EMAIL
 
 ---
 
-## 📈 Output
+##  Output
 
 The program displays:
 
@@ -159,7 +159,7 @@ The program displays:
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 ### Feature Extraction
 
@@ -176,7 +176,7 @@ The program displays:
 
 ---
 
-## 📚 Future Improvements
+##  Future Improvements
 
 * Use a larger real-world email dataset.
 * Split data into training and testing sets.
@@ -192,7 +192,7 @@ The program displays:
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 pandas
@@ -208,14 +208,12 @@ pip install pandas matplotlib scikit-learn
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Kanishk A M**
 
 GitHub: https://github.com/kanishk-am
 
 ---
-
-## 📄 License
 
 This project is licensed under the MIT License.
